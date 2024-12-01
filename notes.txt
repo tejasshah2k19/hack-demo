@@ -1,0 +1,29 @@
+
+---init local repo 
+git init 
+
+
+---connect your local repot to the remote rep 
+git remote add origin https://github.com/tejasshah2k19/hack-demo.git
+
+
+
+---how to push your code ? 
+
+git add file1,file2,file3
+
+git commit -m "" file 
+
+git add Signup.html Login.html notes.txt 
+
+git commit -m "signup" Signup.html 
+
+git push origin master 
+
+
+git commit -m "login notest" Login.html notes.txt 
+
+
+
+
+ 
