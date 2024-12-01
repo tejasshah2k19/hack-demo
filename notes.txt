@@ -28,11 +28,15 @@ git status -> new add , existing modify
 
 
 
-
 what is the use of origin ? 
 master vs main ? 
+
+
+folders--->
+
+
 how to give access to our teammates of the private repo? 
 
 
-
+lets modify this 
  
