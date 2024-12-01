@@ -24,6 +24,15 @@ git push origin master
 git commit -m "login notest" Login.html notes.txt 
 
 
+git status -> new add , existing modify 
+
+
+
+
+what is the use of origin ? 
+master vs main ? 
+how to give access to our teammates of the private repo? 
+
 
 
  
